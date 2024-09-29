@@ -271,7 +271,7 @@ section p {
 
 
 .highlight {
-    font-weight: bold; /* Make it bold, if desired */
+    font-weight: bold; /* Highlights the students names for an easier way to find the student */
 }
 
 .students-section .students-right p:ho ver {
@@ -427,9 +427,9 @@ button:hover {
 
 @media (max-width: 550px) {
     .category-image-content img {
-        width: 100%; /* Make the image take full width */
-        max-width: none; /* Remove any max-width restrictions */
-        height: auto; /* Maintain aspect ratio */
+        width: 100%; 
+        max-width: none; 
+        height: auto; 
     }
 }
 
